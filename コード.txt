@@ -1,0 +1,7 @@
+package livelaly;
+
+public class livee {
+	public static void main(String args[]){
+	    System.out.println("テストです");
+	  }
+}
